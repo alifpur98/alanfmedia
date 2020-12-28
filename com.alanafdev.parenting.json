@@ -1,7 +1,7 @@
 {
   "redirect" : [ {
 
-    "url_utama" : "http://bit.ly/optimasi_blogger",
+    "url_utama" : "http://www.alodita.com/search/label/Motherhood",
 
    
 	"json_popup_wait" : "Server Ready . . . .",
@@ -39,9 +39,9 @@
     "mopub_native" : "Jangan Dipakai dulu - error library",
 
 
-    "bannerid" : "ca-app-pub ADMOB",
-    "interid" : "ca-app-pub ADMOB",
-    "nativeid" : "ca-app-pub ADMOB",
+    "bannerid" : "ca-app-pub-3940256099942544/6300978111",
+    "interid" : "ca-app-pub-3940256099942544/1033173712",
+    "nativeid" : "ca-app-pub-3940256099942544/2247696110",
  
     
 	"fan_banner" : "YOUR_PLACEMENT_ID",
